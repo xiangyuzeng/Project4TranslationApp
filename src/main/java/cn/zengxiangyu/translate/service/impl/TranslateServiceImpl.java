@@ -10,11 +10,6 @@ import com.mongodb.client.MongoDatabase;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-/**
- * @author 11636
- * @date 2020-03-19 9:49
- * @Description: [一句话描述该类的功能]
- */
 @Service
 public class TranslateServiceImpl implements TranslateService {
 

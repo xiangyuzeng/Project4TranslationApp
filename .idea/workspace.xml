@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5374e8b6-8e27-4cce-992e-ea45a6edf169" name="Default Changelist" comment="" />
+    <list default="true" id="5374e8b6-8e27-4cce-992e-ea45a6edf169" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/zengxiangyu/translate/configuration/MongoDBConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cn/zengxiangyu/translate/configuration/MongoDBConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/zengxiangyu/translate/service/TranslateService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cn/zengxiangyu/translate/service/TranslateService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/zengxiangyu/translate/service/impl/TranslateServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cn/zengxiangyu/translate/service/impl/TranslateServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/zengxiangyu/translate/utils/DateUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cn/zengxiangyu/translate/utils/DateUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/zengxiangyu/translate/utils/HttpGet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cn/zengxiangyu/translate/utils/HttpGet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/zengxiangyu/translate/utils/MD5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cn/zengxiangyu/translate/utils/MD5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/zengxiangyu/translate/utils/TransApi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cn/zengxiangyu/translate/utils/TransApi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/translate.iml" beforeDir="false" afterPath="$PROJECT_DIR$/translate.iml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,6 +43,7 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="ProjectId" id="1Z4K2aWwgpC9OOWsvX66QoC3iKp" />
@@ -47,9 +60,10 @@
     <property name="RequestMappingsPanelWidth0" value="75" />
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources/static" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -137,6 +151,7 @@
       <workItem from="1585875981182" duration="6058000" />
       <workItem from="1585894271697" duration="635000" />
       <workItem from="1585993181328" duration="267000" />
+      <workItem from="1586022662203" duration="193000" />
     </task>
     <servers />
   </component>
@@ -152,6 +167,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="765" y="228" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1584582906023" />
+    <state x="620" y="305" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1586022682943">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="620" y="305" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1536.824@0.0.1536.824" timestamp="1586022682943" />
     <state x="689" y="389" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1584267213446">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

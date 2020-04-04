@@ -23,7 +23,7 @@
     </div>
     <div class="layui-body">
         <blockquote class="layui-elem-quote" id="strCount">
-            总使用字符数：0000
+            Total Characters Count：0000
         </blockquote>
         <table id="demo" lay-filter="test"></table>
     </div>
@@ -31,7 +31,7 @@
 <script src="layui.js"></script>
 <script>
 
-    //JavaScript代码区域
+    //JavaScript
     layui.use('table', function(){
         var table = layui.table;
         var $ = layui.jquery;
@@ -42,7 +42,7 @@
                 for(var i = 0; i < resJson.length; i++) {
                     if(i==resJson.length-1) {
                         var strCount = resJson[i].strCount;
-                        $("#strCount").text("总使用字符数:" + strCount);
+                        $("#strCount").text("Total Characters Count:" + strCount);
                     }
                 }
             });
@@ -51,8 +51,8 @@
         table.render({
             elem: '#demo'
             ,height: 500
-            ,url: '/getAllRecords' //数据接口
-            ,cols: [[ //表头
+            ,url: '/getAllRecords' 
+            ,cols: [[ 
                 {field: 'app_id', title: 'APP_ID', width:266, sort: true, fixed: 'left'}
                 ,{field: 'from', title: 'FROM', width:301}
                 ,{field: 'to', title: 'TO', width:245, sort: true}

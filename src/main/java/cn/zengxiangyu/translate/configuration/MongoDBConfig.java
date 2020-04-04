@@ -7,11 +7,6 @@ import org.springframework.beans.factory.annotation.Value;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
-/**
- * @author 11636
- * @date 2020-03-13 22:17
- * @Description: [一句话描述该类的功能]
- */
 @Configuration
 public class MongoDBConfig {
 
